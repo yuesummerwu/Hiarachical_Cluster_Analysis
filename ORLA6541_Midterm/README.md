@@ -11,7 +11,7 @@ The study investigates the relationship between structural barriers, advanced co
 This repository includes the following files and directories:
 
 - **`code/`**: Scripts for data preprocessing, clustering, and visualizations, available in multiple formats, including Markdown, RMarkdown, and HTML. 💻
-- - For better preview experiences, please refer to [the HTML](https:// https://yuesummerwu.github.io/Hiarachical_Cluster_Analysis/ORLA6541_Midterm/Code/ORLA6541_Midterm_HCAHeatmap_YueSummerWu.html).
+- - For better preview experiences, please refer to [the HTML](https://yuesummerwu.github.io/Hiarachical_Cluster_Analysis/ORLA6541_Midterm/Code/ORLA6541_Midterm_HCAHeatmap_YueSummerWu.html).
 - **`figures/`**: Visual outputs such as the HCA heatmap (clustergram) and bubble plot. 📊 
 - **`paper/`**: Full project paper in PDF format, complete with figures, tables, and references. 📝<br>
 
