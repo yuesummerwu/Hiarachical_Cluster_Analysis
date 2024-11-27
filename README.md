@@ -27,11 +27,7 @@ This repository includes the following files and directories:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuesummerwu)
 - [![GitHub](https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github)](https://github.com/yuesummerwu)
 
-## License 
+## License 📜
 
 - **Code:** [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 - **Paper:** The project paper is provided for reference only. Reproduction, modification, or distribution of its content is prohibited without prior written consent.
-- 
-
-
-
