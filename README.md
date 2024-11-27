@@ -20,8 +20,10 @@ This repository includes the following files and directories:
 - **Data Sources:** Public data from Civil Rights Data Collection and NC DPI.
 - **Focus on Equity:** Investigating educational inequities and potential solutions.
 
-## Contact 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sw3891@tc.columbia.edu)
+## **Contact ** 📫
+- 📧: sw3891@tc.columbia.edu
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuesummerwu)
+- [![GitHub](https://img.shields.io/badge/GitHub-Explore-black?style=for-the-badge&logo=github)](https://github.com/yuesummerwu)  
 
 
 
